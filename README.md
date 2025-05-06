@@ -1,5 +1,5 @@
 
-# 🔐 Secure Vault Pro (QR Code Edition)
+# 🔐 Secure Data Encryption
 
 **Military-Grade Data Protection using Python & Streamlit**  
 Now with QR Code Integration for Hybrid Digital-Physical Security
